@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FunZone</string>
+    <string name="funZone">FUNZONE</string>
+    <string name="Paper">Rock,Paper,Scissor</string>
+    <string name="New_Game">New Game</string>
+    <string name="Luck">Hit Your Luck</string>
+    <string name="yes">Try your Luck</string>
+</resources>
